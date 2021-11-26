@@ -1,6 +1,6 @@
-//% color=#0fbc11 icon="\u272a" block="MakerBit"
-//% category="MakerBit"
-namespace makerbit {
+//% color=#0fbc11 icon="\u272a" block="LuckyBot"
+//% category="LuckyBot"
+namespace LuckyBot {
     export namespace background {
 
         export enum Thread {
